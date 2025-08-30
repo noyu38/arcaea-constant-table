@@ -73,13 +73,14 @@ h1 {
 @media (max-width: 600px) {
     body {
         background-attachment: scroll;
-        background-size: contain;
+        background-size: cover;
+        background-position: center center;
         padding: 10px;
     }
 
     .jackets img {
-        width: 10%;
-        height: 10%;
+        width: 80px;
+        height: 80px;
     }
 
     .jackets img.beyond-jacket {
