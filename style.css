@@ -73,18 +73,25 @@ h1 {
 @media (max-width: 600px) {
     body {
         background-attachment: scroll;
+        background-size: contain;
+        padding: 10px;
     }
 
     .jackets img {
-        width: 96px;
-        height: 96px;
+        width: 80px;
+        height: 80px;
     }
 
-    .jackets img.beyond-jackets {
+    .jackets img.beyond-jacket {
         box-shadow: 0 0 1px 1px red;
     }
 
-    .jackets img.eternal-jackets {
+    .jackets img.eternal-jacket {
         box-shadow: 0 0 1px 1px mediumpurple;
+    }
+
+    .constant-group {
+        padding: 15px;
+        margin-bottom: 20px;
     }
 }
