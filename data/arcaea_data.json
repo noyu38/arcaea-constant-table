@@ -1,0 +1,2056 @@
+[
+  {
+    "title_ja": "#1f1e33",
+    "title_en": "#1f1e33",
+    "jacket": "1f1e33.jpg",
+    "charts": {
+      "Future": {
+        "level": "11",
+        "constant": 11.1
+      }
+    }
+  },
+  {
+    "title_ja": "[X]",
+    "title_en": "[X]",
+    "jacket": "[X].jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.6
+      }
+    }
+  },
+  {
+    "title_ja": "8-EM",
+    "title_en": "8-EM",
+    "jacket": "8-EM.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.3
+      }
+    }
+  },
+  {
+    "title_ja": "10pt8ion",
+    "title_en": "10pt8ion",
+    "jacket": "10pt8ion.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "99 Glooms",
+    "title_en": "99 Glooms",
+    "jacket": "99 Glooms.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.3
+      }
+    }
+  },
+  {
+    "title_ja": "Ⅱ",
+    "title_en": "Ⅱ",
+    "jacket": "Ⅱ.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "Abstruse Dilemma",
+    "title_en": "Abstruse Dilemma",
+    "jacket": "Abstruse Dilemma.jpg",
+    "charts": {
+      "Future": {
+        "level": "11",
+        "constant": 11.3
+      }
+    }
+  },
+  {
+    "title_ja": "Aegleseeker",
+    "title_en": "Aegleseeker",
+    "jacket": "Aegleseeker.jpg",
+    "charts": {
+      "Future": {
+        "level": "11",
+        "constant": 11.2
+      }
+    }
+  },
+  {
+    "title_ja": "Aether Crest: Astral",
+    "title_en": "Aether Crest: Astral",
+    "jacket": "Aether Crest_ Astral.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.6
+      },
+      "Eternal": {
+        "level": "11",
+        "constant": 11.5
+      }
+    }
+  },
+  {
+    "title_ja": "Aleph-0",
+    "title_en": "Aleph-0",
+    "jacket": "Aleph-0.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "Alexandrite",
+    "title_en": "Alexandrite",
+    "jacket": "Alexandrite.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.0
+      }
+    }
+  },
+  {
+    "title_ja": "Altale",
+    "title_en": "Altale",
+    "jacket": "Altale.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10",
+        "constant": 10.0
+      }
+    }
+  },
+  {
+    "title_ja": "ALTER EGO",
+    "title_en": "ALTER EGO",
+    "jacket": "ALTER EGO.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      },
+      "Eternal": {
+        "level": "11",
+        "constant": 11.3
+      }
+    }
+  },
+  {
+    "title_ja": "AlterGate",
+    "title_en": "AlterGate",
+    "jacket": "AlterGate.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.7
+      }
+    }
+  },
+  {
+    "title_ja": "AMAZING MIGHTYYYY!!!!",
+    "title_en": "AMAZING MIGHTYYYY!!!!",
+    "jacket": "AMAZING MIGHTYYYY!!!!.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.7
+      }
+    }
+  },
+  {
+    "title_ja": "And Revive The Melody",
+    "title_en": "And Revive The Melody",
+    "jacket": "And Revive The Melody.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.9
+      }
+    }
+  },
+  {
+    "title_ja": "Arcana Eden",
+    "title_en": "Arcana Eden",
+    "jacket": "Arcana Eden.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      },
+      "Beyond": {
+        "level": "11",
+        "constant": 11.6
+      }
+    }
+  },
+  {
+    "title_ja": "Arghena",
+    "title_en": "Arghena",
+    "jacket": "Arghena.jpg",
+    "charts": {
+      "Future": {
+        "level": "11",
+        "constant": 11.3
+      }
+    }
+  },
+  {
+    "title_ja": "Astral Quantization",
+    "title_en": "Astral Quantization",
+    "jacket": "Astral Quantization.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.6
+      }
+    }
+  },
+  {
+    "title_ja": "AttraqtiA",
+    "title_en": "AttraqtiA",
+    "jacket": "AttraqtiA.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.6
+      }
+    }
+  },
+  {
+    "title_ja": "Aurgelmir",
+    "title_en": "Aurgelmir",
+    "jacket": "Aurgelmir.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "Axium Crisis",
+    "title_en": "Axium Crisis",
+    "jacket": "Axium Crisis.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.6
+      }
+    }
+  },
+  {
+    "title_ja": "Back to Basics",
+    "title_en": "Back to Basics",
+    "jacket": "Back to Basics.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.6
+      }
+    }
+  },
+  {
+    "title_ja": "竹",
+    "title_en": "Bamboo",
+    "jacket": "Bamboo.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.0
+      }
+    }
+  },
+  {
+    "title_ja": "Black MInD",
+    "title_en": "Black MInD",
+    "jacket": "Black MInD.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "BlazinG AIR",
+    "title_en": "BlazinG AIR",
+    "jacket": "BlazinG AIR.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.1
+      }
+    }
+  },
+  {
+    "title_ja": "BlythE",
+    "title_en": "BlythE",
+    "jacket": "BlythE.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "Bookmaker (2D Version)",
+    "title_en": "Bookmaker (2D Version)",
+    "jacket": "Bookmaker (2D Version)-b.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10",
+        "constant": 10.0
+      }
+    }
+  },
+  {
+    "title_ja": "Breach of Faith",
+    "title_en": "Breach of Faith",
+    "jacket": "Breach of Faith.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.3
+      },
+      "Beyond": {
+        "level": "10+",
+        "constant": 10.9
+      }
+    }
+  },
+  {
+    "title_ja": "BREaK! BREaK! BREaK!",
+    "title_en": "BREaK! BREaK! BREaK!",
+    "jacket": "BREaK! BREaK! BREaK!.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.3
+      }
+    }
+  },
+  {
+    "title_ja": "BUCHiGiRE Berserker",
+    "title_en": "BUCHiGiRE Berserker",
+    "jacket": "BUCHiGiRE Berserker.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "Capella",
+    "title_en": "Capella",
+    "jacket": "Capella.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.2
+      }
+    }
+  },
+  {
+    "title_ja": "CHAOS",
+    "title_en": "CHAOS",
+    "jacket": "CHAOS.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.9
+      }
+    }
+  },
+  {
+    "title_ja": "CHAOSBLAST",
+    "title_en": "CHAOSBLAST",
+    "jacket": "CHAOSBLAST.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "Chromafill",
+    "title_en": "Chromafill",
+    "jacket": "Chromafill.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.0
+      }
+    }
+  },
+  {
+    "title_ja": "Chronicle",
+    "title_en": "Chronicle",
+    "jacket": "Chronicle.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "Climax",
+    "title_en": "Climax",
+    "jacket": "Climax.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.4
+      }
+    }
+  },
+  {
+    "title_ja": "conflict",
+    "title_en": "conflict",
+    "jacket": "conflict.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.2
+      }
+    }
+  },
+  {
+    "title_ja": "corps-sans-organes",
+    "title_en": "corps-sans-organes",
+    "jacket": "corps-sans-organes.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.6
+      }
+    }
+  },
+  {
+    "title_ja": "Crimson Throne",
+    "title_en": "Crimson Throne",
+    "jacket": "Crimson Throne.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.6
+      }
+    }
+  },
+  {
+    "title_ja": "Cyaegha",
+    "title_en": "Cyaegha",
+    "jacket": "Cyaegha.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.7
+      }
+    }
+  },
+  {
+    "title_ja": "cyanine",
+    "title_en": "cyanine",
+    "jacket": "cyanine.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.6
+      }
+    }
+  },
+  {
+    "title_ja": "DA'AT -The First Seeker of Souls-",
+    "title_en": "DA'AT -The First Seeker of Souls-",
+    "jacket": "DA'AT -The First Seeker of Souls-.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.9
+      }
+    }
+  },
+  {
+    "title_ja": "Dantalion",
+    "title_en": "Dantalion",
+    "jacket": "Dantalion.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "Designant.",
+    "title_en": "Designant.",
+    "jacket": "Designant..jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.9
+      },
+      "Beyond": {
+        "level": "11+",
+        "constant": 11.9
+      }
+    }
+  },
+  {
+    "title_ja": "Désive",
+    "title_en": "Désive",
+    "jacket": "Désive.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "Dies irae",
+    "title_en": "Dies irae",
+    "jacket": "Dies irae.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.6
+      }
+    }
+  },
+  {
+    "title_ja": "Distorted Fate",
+    "title_en": "Distorted Fate",
+    "jacket": "Distorted Fate.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "光速神授説 - Divine Light of Myriad -",
+    "title_en": "Divine Light of Myriad",
+    "jacket": "Divine Light of Myriad.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "Don't Die",
+    "title_en": "Don't Die",
+    "jacket": "Don't Die.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.1
+      }
+    }
+  },
+  {
+    "title_ja": "Don't Fight The Music",
+    "title_en": "Don't Fight The Music",
+    "jacket": "Don't Fight The Music.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10+",
+        "constant": 10.7
+      }
+    }
+  },
+  {
+    "title_ja": "Dual Dependency",
+    "title_en": "Dual Dependency",
+    "jacket": "Dual Dependency.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.4
+      }
+    }
+  },
+  {
+    "title_ja": "Dual Doom Deathmatch",
+    "title_en": "Dual Doom Deathmatch",
+    "jacket": "Dual Doom Deathmatch.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.3
+      }
+    }
+  },
+  {
+    "title_ja": "Dull Blade",
+    "title_en": "Dull Blade",
+    "jacket": "Dull Blade.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "eden",
+    "title_en": "eden",
+    "jacket": "eden.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "Ego Eimi",
+    "title_en": "Ego Eimi",
+    "jacket": "Ego Eimi.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "Einherjar Joker",
+    "title_en": "Einherjar Joker",
+    "jacket": "Einherjar Joker-b.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10+",
+        "constant": 10.9
+      }
+    }
+  },
+  {
+    "title_ja": "ENERGY SYNERGY MATRIX",
+    "title_en": "ENERGY SYNERGY MATRIX",
+    "jacket": "ENERGY SYNERGY MATRIX.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10",
+        "constant": 10.3
+      }
+    }
+  },
+  {
+    "title_ja": "Ether Strike",
+    "title_en": "Ether Strike",
+    "jacket": "Ether Strike.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.3
+      }
+    }
+  },
+  {
+    "title_ja": "多次元宇宙融合論",
+    "title_en": "Extradimensional Cosmic Phenomenon",
+    "jacket": "Extradimensional Cosmic Phenomenon.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.6
+      },
+      "Eternal": {
+        "level": "11",
+        "constant": 11.3
+      }
+    }
+  },
+  {
+    "title_ja": "Felis",
+    "title_en": "Felis",
+    "jacket": "Felis.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.4
+      }
+    }
+  },
+  {
+    "title_ja": "Fracture Ray",
+    "title_en": "Fracture Ray",
+    "jacket": "Fracture Ray.jpg",
+    "charts": {
+      "Future": {
+        "level": "11",
+        "constant": 11.1
+      }
+    }
+  },
+  {
+    "title_ja": "Free Myself",
+    "title_en": "Free Myself",
+    "jacket": "Free Myself.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.0
+      }
+    }
+  },
+  {
+    "title_ja": "G e n g a o z o",
+    "title_en": "G e n g a o z o",
+    "jacket": "G e n g a o z o.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.1
+      }
+    }
+  },
+  {
+    "title_ja": "Garakuta Doll Play",
+    "title_en": "Garakuta Doll Play",
+    "jacket": "Garakuta Doll Play.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.4
+      }
+    }
+  },
+  {
+    "title_ja": "GENOCIDER",
+    "title_en": "GENOCIDER",
+    "jacket": "GENOCIDER.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "幻想のサテライト",
+    "title_en": "Gensou no Satellite",
+    "jacket": "Gensou no Satellite.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.1
+      }
+    }
+  },
+  {
+    "title_ja": "GIMME DA BLOOD",
+    "title_en": "GIMME DA BLOOD",
+    "jacket": "GIMME DA BLOOD.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "GLORY：ROAD",
+    "title_en": "GLORY：ROAD",
+    "jacket": "GLORY_ROAD.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "Good bye, Merry-Go-Round",
+    "title_en": "Good bye, Merry-Go-Round",
+    "jacket": "Good bye, Merry-Go-Round.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.6
+      }
+    }
+  },
+  {
+    "title_ja": "Grievous Lady",
+    "title_en": "Grievous Lady",
+    "jacket": "Grievous Lady.jpg",
+    "charts": {
+      "Future": {
+        "level": "11",
+        "constant": 11.1
+      }
+    }
+  },
+  {
+    "title_ja": "γuarδina",
+    "title_en": "γuarδina",
+    "jacket": "guardina.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.4
+      }
+    }
+  },
+  {
+    "title_ja": "Halcyon",
+    "title_en": "Halcyon",
+    "jacket": "Halcyon.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "Heavensdoor",
+    "title_en": "Heavensdoor",
+    "jacket": "Heavensdoor-b.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "緋色月下、狂咲ノ絶 (nayuta 2017 ver.)",
+    "title_en": "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.)",
+    "jacket": "Hiiro Gekka, Kyoushou no Zetsu (nayuta 2017 ver.).jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.3
+      }
+    }
+  },
+  {
+    "title_ja": "HIVEMIND",
+    "title_en": "HIVEMIND",
+    "jacket": "HIVEMIND.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.0
+      }
+    }
+  },
+  {
+    "title_ja": "怒槌",
+    "title_en": "Ikazuchi",
+    "jacket": "Ikazuchi.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.3
+      }
+    }
+  },
+  {
+    "title_ja": "IMPACT",
+    "title_en": "IMPACT",
+    "jacket": "IMPACT.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10",
+        "constant": 10.4
+      }
+    }
+  },
+  {
+    "title_ja": "Infinite Strife",
+    "title_en": "Infinite Strife",
+    "jacket": "Infinite Strife.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10+",
+        "constant": 10.9
+      }
+    }
+  },
+  {
+    "title_ja": "Inverted World",
+    "title_en": "Inverted World",
+    "jacket": "Inverted World.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10+",
+        "constant": 10.7
+      }
+    }
+  },
+  {
+    "title_ja": "IZANA",
+    "title_en": "IZANA",
+    "jacket": "IZANA.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.3
+      }
+    }
+  },
+  {
+    "title_ja": "Judgement",
+    "title_en": "Judgement",
+    "jacket": "Judgement.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "患部で止まってすぐ溶ける ～ 狂気の優曇華院",
+    "title_en": "Kanbu de Tomatte Sugu Tokeru",
+    "jacket": "Kanbu de Tomatte Sugu Tokeru.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.1
+      }
+    }
+  },
+  {
+    "title_ja": "Kissing Lucifer",
+    "title_en": "Kissing Lucifer",
+    "jacket": "Kissing Lucifer.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.4
+      }
+    }
+  },
+  {
+    "title_ja": "狂恋ROMANCE",
+    "title_en": "KYOREN ROMANCE",
+    "jacket": "KYOREN ROMANCE.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.7
+      }
+    }
+  },
+  {
+    "title_ja": "Lament Rain",
+    "title_en": "Lament Rain",
+    "jacket": "Lament Rain.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.6
+      },
+      "Beyond": {
+        "level": "11",
+        "constant": 11.4
+      }
+    }
+  },
+  {
+    "title_ja": "LAMIA",
+    "title_en": "LAMIA",
+    "jacket": "LAMIA.jpg",
+    "charts": {
+      "Future": {
+        "level": "11",
+        "constant": 11.0
+      }
+    }
+  },
+  {
+    "title_ja": "La'qryma of the Wasteland",
+    "title_en": "La'qryma of the Wasteland",
+    "jacket": "La'qryma of the Wasteland-b.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10",
+        "constant": 10.0
+      }
+    }
+  },
+  {
+    "title_ja": "Last Celebration",
+    "title_en": "Last Celebration",
+    "jacket": "Last Celebration.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.4
+      }
+    }
+  },
+  {
+    "title_ja": "lastendconductor",
+    "title_en": "lastendconductor",
+    "jacket": "lastendconductor.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10",
+        "constant": 10.2
+      }
+    }
+  },
+  {
+    "title_ja": "Lethal Voltage",
+    "title_en": "Lethal Voltage",
+    "jacket": "Lethal Voltage.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.4
+      }
+    }
+  },
+  {
+    "title_ja": "Liar",
+    "title_en": "Liar",
+    "jacket": "Liar.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.0
+      }
+    }
+  },
+  {
+    "title_ja": "Libertas",
+    "title_en": "Libertas",
+    "jacket": "Libertas-b.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "Lightning Screw",
+    "title_en": "Lightning Screw",
+    "jacket": "Lightning Screw.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "Lilly",
+    "title_en": "Lilly",
+    "jacket": "Lilly.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "Live Fast Die Young",
+    "title_en": "Live Fast Die Young",
+    "jacket": "Live Fast Die Young.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.6
+      }
+    }
+  },
+  {
+    "title_ja": "Logos",
+    "title_en": "Logos",
+    "jacket": "Logos.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.2
+      }
+    }
+  },
+  {
+    "title_ja": "Löschen",
+    "title_en": "Löschen",
+    "jacket": "Löschen.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.2
+      }
+    }
+  },
+  {
+    "title_ja": "Lucid Traveler",
+    "title_en": "Lucid Traveler",
+    "jacket": "Lucid Traveler_FTR.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "Magnolia",
+    "title_en": "Magnolia",
+    "jacket": "Magnolia.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.2
+      }
+    }
+  },
+  {
+    "title_ja": "Malicious Mischance",
+    "title_en": "Malicious Mischance",
+    "jacket": "Malicious Mischance.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.2
+      }
+    }
+  },
+  {
+    "title_ja": "Manic Jeer",
+    "title_en": "Manic Jeer",
+    "jacket": "Manic Jeer.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.6
+      }
+    }
+  },
+  {
+    "title_ja": "Masquerade Legion",
+    "title_en": "Masquerade Legion",
+    "jacket": "Masquerade Legion.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.0
+      }
+    }
+  },
+  {
+    "title_ja": "Medusa",
+    "title_en": "Medusa",
+    "jacket": "Medusa.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.1
+      }
+    }
+  },
+  {
+    "title_ja": "MEGALOVANIA (Camellia Remix)",
+    "title_en": "MEGALOVANIA (Camellia Remix)",
+    "jacket": "MEGALOVANIA (Camellia Remix).jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10+",
+        "constant": 10.9
+      }
+    }
+  },
+  {
+    "title_ja": "MEGALOVANIA",
+    "title_en": "MEGALOVANIA",
+    "jacket": "MEGALOVANIA.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "Metallic Punisher",
+    "title_en": "Metallic Punisher",
+    "jacket": "Metallic Punisher.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.3
+      }
+    }
+  },
+  {
+    "title_ja": "Meta-Mysteria",
+    "title_en": "Meta-Mysteria",
+    "jacket": "Meta-Mysteria.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "MIRINAE",
+    "title_en": "MIRINAE",
+    "jacket": "MIRINAE.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.4
+      }
+    }
+  },
+  {
+    "title_ja": "業 -善なる神とこの世の悪について-",
+    "title_en": "Misdeed -la bonte de Dieu et l'origine du mal-",
+    "jacket": "Misdeed -la bonte de Dieu et l'origine du mal-.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.9
+      }
+    }
+  },
+  {
+    "title_ja": "MVURBD",
+    "title_en": "MVURBD",
+    "jacket": "MVURBD.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.6
+      }
+    }
+  },
+  {
+    "title_ja": "NEO WINGS",
+    "title_en": "NEO WINGS",
+    "jacket": "NEO WINGS.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.2
+      }
+    }
+  },
+  {
+    "title_ja": "Nhelv",
+    "title_en": "Nhelv",
+    "jacket": "Nhelv-b.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10+",
+        "constant": 10.9
+      }
+    }
+  },
+  {
+    "title_ja": "Nightmare",
+    "title_en": "Nightmare",
+    "jacket": "Nightmare.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "Nirv lucE",
+    "title_en": "Nirv lucE",
+    "jacket": "Nirv lucE.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.2
+      }
+    }
+  },
+  {
+    "title_ja": "NULL APOPHENIA",
+    "title_en": "NULL APOPHENIA",
+    "jacket": "NULL APOPHENIA.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.7
+      }
+    }
+  },
+  {
+    "title_ja": "OBLIVION",
+    "title_en": "OBLIVION",
+    "jacket": "OBLIVION.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.1
+      }
+    }
+  },
+  {
+    "title_ja": "OMAKENO Stroke",
+    "title_en": "OMAKENO Stroke",
+    "jacket": "OMAKENO Stroke.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10",
+        "constant": 10.3
+      }
+    }
+  },
+  {
+    "title_ja": "Oshama Scramble!",
+    "title_en": "Oshama Scramble!",
+    "jacket": "Oshama Scramble!.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.0
+      }
+    }
+  },
+  {
+    "title_ja": "ouroboros -twin stroke of the end-",
+    "title_en": "ouroboros -twin stroke of the end-",
+    "jacket": "ouroboros -twin stroke of the end-.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.7
+      }
+    }
+  },
+  {
+    "title_ja": "overdead",
+    "title_en": "overdead",
+    "jacket": "overdead.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "Overwhelm",
+    "title_en": "Overwhelm",
+    "jacket": "Overwhelm.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.6
+      }
+    }
+  },
+  {
+    "title_ja": "Party Vinyl",
+    "title_en": "Party Vinyl",
+    "jacket": "Party Vinyl-b.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10",
+        "constant": 10.3
+      }
+    }
+  },
+  {
+    "title_ja": "Pentiment",
+    "title_en": "Pentiment",
+    "jacket": "Pentiment.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.4
+      },
+      "Beyond": {
+        "level": "11",
+        "constant": 11.5
+      }
+    }
+  },
+  {
+    "title_ja": "プラシイボ♥バトラー",
+    "title_en": "Placebo♥Battler",
+    "jacket": "Placebo♥Battler.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.4
+      }
+    }
+  },
+  {
+    "title_ja": "PRAGMATISM",
+    "title_en": "PRAGMATISM",
+    "jacket": "PRAGMATISM.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.1
+      }
+    }
+  },
+  {
+    "title_ja": "PRAGMATISM -RESURRECTION-",
+    "title_en": "PRAGMATISM -RESURRECTION-",
+    "jacket": "PRAGMATISM -RESURRECTION-.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "11",
+        "constant": 11.2
+      }
+    }
+  },
+  {
+    "title_ja": "PRIMITIVE LIGHTS",
+    "title_en": "PRIMITIVE LIGHTS",
+    "jacket": "PRIMITIVE LIGHTS.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "PUPA",
+    "title_en": "PUPA",
+    "jacket": "PUPA.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.4
+      }
+    }
+  },
+  {
+    "title_ja": "Purple Verse",
+    "title_en": "Purple Verse",
+    "jacket": "Purple Verse-b.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10",
+        "constant": 10.6
+      }
+    }
+  },
+  {
+    "title_ja": "Qovat",
+    "title_en": "Qovat",
+    "jacket": "Qovat.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.4
+      }
+    }
+  },
+  {
+    "title_ja": "Quon",
+    "title_en": "Quon",
+    "jacket": "Quon.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10",
+        "constant": 10.2
+      }
+    }
+  },
+  {
+    "title_ja": "Rain of Conflict in a Radiant Abyss",
+    "title_en": "Rain of Conflict in a Radiant Abyss",
+    "jacket": "Rain of Conflict in a Radiant Abyss.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "Rays of Remnant",
+    "title_en": "Rays of Remnant",
+    "jacket": "Rays of Remnant.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10",
+        "constant": 10.4
+      }
+    }
+  },
+  {
+    "title_ja": "Red and Blue and Green",
+    "title_en": "Red and Blue and Green",
+    "jacket": "Red and Blue and Green.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10",
+        "constant": 10.2
+      }
+    }
+  },
+  {
+    "title_ja": "Redolent Shape",
+    "title_en": "Redolent Shape",
+    "jacket": "Redolent Shape.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.2
+      }
+    }
+  },
+  {
+    "title_ja": "烈華RESONANCE",
+    "title_en": "REKKA RESONANCE",
+    "jacket": "REKKA RESONANCE.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.7
+      }
+    }
+  },
+  {
+    "title_ja": "Renegade",
+    "title_en": "Renegade",
+    "jacket": "Renegade.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10",
+        "constant": 10.2
+      }
+    }
+  },
+  {
+    "title_ja": "Ringed Genesis",
+    "title_en": "Ringed Genesis",
+    "jacket": "Ringed Genesis.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "Rise of the World",
+    "title_en": "Rise of the World",
+    "jacket": "Rise of the World.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "最強STRONGER",
+    "title_en": "SAIKYO STRONGER",
+    "jacket": "SAIKYO STRONGER.jpg",
+    "charts": {
+      "Future": {
+        "level": "11",
+        "constant": 11.0
+      }
+    }
+  },
+  {
+    "title_ja": "Scarlet Lance",
+    "title_en": "Scarlet Lance",
+    "jacket": "Scarlet Lance.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.0
+      }
+    }
+  },
+  {
+    "title_ja": "Seclusion",
+    "title_en": "Seclusion",
+    "jacket": "Seclusion.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.6
+      }
+    }
+  },
+  {
+    "title_ja": "Sheriruth",
+    "title_en": "Sheriruth",
+    "jacket": "Sheriruth.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.0
+      }
+    }
+  },
+  {
+    "title_ja": "Sheriruth (Laur Remix)",
+    "title_en": "Sheriruth (Laur Remix)",
+    "jacket": "Sheriruth (Laur Remix).jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "Singularity VVVIP",
+    "title_en": "Singularity VVVIP",
+    "jacket": "Singularity VVVIP.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10",
+        "constant": 10.4
+      }
+    }
+  },
+  {
+    "title_ja": "Singularity",
+    "title_en": "Singularity",
+    "jacket": "Singularity.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "蜘蛛の糸",
+    "title_en": "Spider's Thread",
+    "jacket": "Spider's Thread.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "Spirit of the Dauntless",
+    "title_en": "Spirit of the Dauntless",
+    "jacket": "Spirit of the Dauntless.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "Stasis",
+    "title_en": "Stasis",
+    "jacket": "Stasis.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "Straight into the lights",
+    "title_en": "Straight into the lights",
+    "jacket": "Straight into the lights.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "SUPER AMBULANCE",
+    "title_en": "SUPER AMBULANCE",
+    "jacket": "SUPER AMBULANCE.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.3
+      }
+    }
+  },
+  {
+    "title_ja": "Tempestissimo",
+    "title_en": "Tempestissimo",
+    "jacket": "Tempestissimo.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.7
+      },
+      "Beyond": {
+        "level": "11",
+        "constant": 11.7
+      }
+    }
+  },
+  {
+    "title_ja": "TEmPTaTiON",
+    "title_en": "TEmPTaTiON",
+    "jacket": "TEmPTaTiON.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.9
+      }
+    }
+  },
+  {
+    "title_ja": "TeraVolt",
+    "title_en": "TeraVolt",
+    "jacket": "TeraVolt.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "Testify",
+    "title_en": "Testify",
+    "jacket": "Testify.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.9
+      },
+      "Beyond": {
+        "level": "12",
+        "constant": 12.0
+      }
+    }
+  },
+  {
+    "title_ja": "Third Sun",
+    "title_en": "Third Sun",
+    "jacket": "Third Sun.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.0
+      }
+    }
+  },
+  {
+    "title_ja": "Tiferet",
+    "title_en": "Tiferet",
+    "jacket": "Tiferet.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.3
+      }
+    }
+  },
+  {
+    "title_ja": "To the Milky Way",
+    "title_en": "To the Milky Way",
+    "jacket": "To the Milky Way.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.4
+      }
+    }
+  },
+  {
+    "title_ja": "アリス・リデルに捧ぐ",
+    "title_en": "To_ Alice Liddell",
+    "jacket": "To_ Alice Liddell.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.3
+      }
+    }
+  },
+  {
+    "title_ja": "妖艶魔女",
+    "title_en": "trappola bewitching",
+    "jacket": "trappola bewitching-b.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10",
+        "constant": 10.6
+      }
+    }
+  },
+  {
+    "title_ja": "TRPNO",
+    "title_en": "TRPNO",
+    "jacket": "TRPNO.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.0
+      }
+    }
+  },
+  {
+    "title_ja": "Trrricksters!!",
+    "title_en": "Trrricksters!!",
+    "jacket": "Trrricksters!!.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.1
+      }
+    }
+  },
+  {
+    "title_ja": "黄昏の協奏曲",
+    "title_en": "Twilight Concerto",
+    "jacket": "Twilight Concerto.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "ultradiaxon-N3",
+    "title_en": "ultradiaxon-N3",
+    "jacket": "ultradiaxon-N3.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.3
+      }
+    }
+  },
+  {
+    "title_ja": "UNKNOWN LEVELS",
+    "title_en": "UNKNOWN LEVELS",
+    "jacket": "UNKNOWN LEVELS.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.6
+      }
+    }
+  },
+  {
+    "title_ja": "Valhalla:0",
+    "title_en": "Valhalla:0",
+    "jacket": "Valhalla_0.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.2
+      }
+    }
+  },
+  {
+    "title_ja": "Vicious Heroism",
+    "title_en": "Vicious Heroism",
+    "jacket": "Vicious Heroism.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.0
+      }
+    }
+  },
+  {
+    "title_ja": "Vicious [ANTi] Heroism",
+    "title_en": "Vicious [ANTi] Heroism",
+    "jacket": "Vicious [ANTi] Heroism.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "11",
+        "constant": 11.2
+      }
+    }
+  },
+  {
+    "title_ja": "ViRTUS",
+    "title_en": "ViRTUS",
+    "jacket": "ViRTUS.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10+",
+        "constant": 10.9
+      }
+    }
+  },
+  {
+    "title_ja": "Viyella's Tears",
+    "title_en": "Viyella's Tears",
+    "jacket": "Viyella's Tears.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.3
+      }
+    }
+  },
+  {
+    "title_ja": "Vulcānus",
+    "title_en": "Vulcānus",
+    "jacket": "Vulcānus.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.9
+      }
+    }
+  },
+  {
+    "title_ja": "Welcome, Queen of Fiction.",
+    "title_en": "Welcome, Queen of Fiction.",
+    "jacket": "Welcome, Queen of Fiction..jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.1
+      },
+      "Eternal": {
+        "level": "10+",
+        "constant": 10.9
+      }
+    }
+  },
+  {
+    "title_ja": "We're All Gonna Die",
+    "title_en": "We're All Gonna Die",
+    "jacket": "We're All Gonna Die.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.1
+      },
+      "Eternal": {
+        "level": "10+",
+        "constant": 10.9
+      }
+    }
+  },
+  {
+    "title_ja": "Wish Upon a Snow",
+    "title_en": "Wish Upon a Snow",
+    "jacket": "Wish Upon a Snow.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "魔王",
+    "title_en": "World Ender",
+    "jacket": "World Ender.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.0
+      },
+      "Beyond": {
+        "level": "11",
+        "constant": 11.1
+      }
+    }
+  },
+  {
+    "title_ja": "World Vanquisher",
+    "title_en": "World Vanquisher",
+    "jacket": "World Vanquisher.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.7
+      }
+    }
+  },
+  {
+    "title_ja": "Xanatos",
+    "title_en": "Xanatos",
+    "jacket": "Xanatos.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.0
+      }
+    }
+  },
+  {
+    "title_ja": "XTREME",
+    "title_en": "XTREME",
+    "jacket": "XTREME.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "最高の悪夢",
+    "title_en": "Your Best Nightmare",
+    "jacket": "Your Best Nightmare.jpg",
+    "charts": {
+      "Beyond": {
+        "level": "10",
+        "constant": 10.2
+      }
+    }
+  },
+  {
+    "title_ja": "αterlβus",
+    "title_en": "αterlβus",
+    "jacket": "αterlβus.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.2
+      }
+    }
+  },
+  {
+    "title_ja": "ω4",
+    "title_en": "ω4",
+    "jacket": "ω4.jpg",
+    "charts": {
+      "Future": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  }
+]
