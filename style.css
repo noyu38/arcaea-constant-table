@@ -69,3 +69,22 @@ h1 {
     border: none;
     box-shadow: 0 0 2px 2px mediumpurple;
 }
+
+@media (max-width: 600px) {
+    body {
+        background-attachment: scroll;
+    }
+
+    .jackets img {
+        width: 96px;
+        height: 96px;
+    }
+
+    .jackets img.beyond-jackets {
+        box-shadow: 0 0 1px 1px red;
+    }
+
+    .jackets img.eternal-jackets {
+        box-shadow: 0 0 1px 1px mediumpurple;
+    }
+}
