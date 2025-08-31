@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 container.appendChild(groupDiv);
             })
 
-            document.getElementById('generate-image-btn').addEventListener('click', generateImage());
+            document.getElementById('generate-image-btn').addEventListener('click', generateImage);
         })
         .catch(e => {
             console.error('データの読み込みに失敗しました。\n', e);
