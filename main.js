@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         if (isEternal) return 'eternal-jacket';
                     }
 
-                    jacketHtml += `<img src="images/${chartInfo.jacket}" alt="${chartInfo.title_ja}" title="${chartInfo.title_ja}" class="${defineClass()}">`;
+                    jacketHtml += `<img src="images/${chartInfo.jacket}" alt="${chartInfo.title}" title="${chartInfo.title}" class="${defineClass()}">`;
                 });
 
                 groupDiv.innerHTML = `
