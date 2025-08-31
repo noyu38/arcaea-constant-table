@@ -55,9 +55,39 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 container.appendChild(groupDiv);
             })
+
+            document.getElementById('generate-image-btn').addEventListener('click', generateImage());
         })
         .catch(e => {
             console.error('データの読み込みに失敗しました。\n', e);
         });
+    // 画像生成
+    const generateImage = () => {
+        const container = document.getElementById('song-list-container');
+        const originalClasses = container.className; // 元のクラス。画像生成後に適用する。
 
+        container.className = 'compact-layout';
+
+        setTimeout(() => {
+            html2canvas(container, {
+                backgroundColor: '#1a1a2e',
+                scale: 2,
+                useCORS: true,
+                allowTaint: true
+            }).then(canvas => {
+                // 元のレイアウトに戻す
+                container.className = originalClasses;
+
+                // 画像をダウンロード
+                const link = document.createElement('a');
+                link.download = 'arcaea-constant-table.png';
+                link.href = canvas.toDataURL();
+                link.click();
+            }).catch(e => {
+                console.error('画像生成に失敗しました: ', e);
+                container.className = originalClasses;
+                alert('画像生成に失敗しました。');
+            });
+        }, 100);
+    }
 })

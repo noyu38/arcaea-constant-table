@@ -30,6 +30,64 @@ h1 {
     color: #fff;
 }
 
+/* 定数表生成ボタン */
+.generate-btn {
+    background: linear-gradient(135deg, #6c5ce7, #a78bfa);
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    margin: 10px 0;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.generate-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(108, 92, 231, 0.4);
+}
+
+/* 生成画像用 */
+.compact-layout {
+    background: #1a1a2e !important;
+    color: #e0e0e0;
+    width: 375px !important;
+    max-width: none !important;
+    padding: 10px !important;
+    margin: 0 !important;
+}
+
+.compact-layout .constant-group {
+    margin-bottom: 15px !important;
+    padding: 10px !important;
+}
+
+.compact-layout .constant-group h2 {
+    font-size: 18px !important;
+    margin: 0 0 8px 0 !important;
+    padding-bottom: 5px !important;
+}
+
+.compact-layout .jackets {
+    gap: 3px !important;
+}
+
+.compact-layout .jackets img {
+    width: 32px !important;
+    height: 32px !important;
+    border-radius: 2px !important;
+}
+
+.compact-layout .jackets img.beyond-jacket {
+    box-shadow: 0 0 1px 1px red !important;
+}
+
+.compact-layout .jackets img.eternal-jacket {
+    box-shadow: 0 0 1px 1px mediumpurple !important;
+}
+
 .constant-group {
     margin-bottom: 40px;
     background-color: rgba(0, 0, 0, 0.8);
