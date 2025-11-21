@@ -44,43 +44,51 @@ h1 {
     transition: all 0.3s ease;
 }
 
-/* 生成画像用 */
-.compact-layout {
-    background: #1a1a2e !important;
-    color: #e0e0e0;
-    width: 375px !important;
-    max-width: none !important;
-    padding: 10px !important;
+/* 画像生成用レイアウト */
+.capture-layout {
+    background: #0f0f1a !important;
+    color: #e0e0e0 !important;
+    width: 900px !important;
+    max-width: 900px !important;
+    padding: 24px !important;
+    margin: 0 auto !important;
+    border-radius: 12px !important;
+    display: grid !important;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 18px !important;
+}
+
+.capture-layout .constant-group {
     margin: 0 !important;
+    height: 100% !important;
+    display: flex !important;
+    flex-direction: column;
+    gap: 8px;
 }
 
-.compact-layout .constant-group {
-    margin-bottom: 15px !important;
-    padding: 10px !important;
+.capture-layout .constant-group h2 {
+    font-size: 22px !important;
+    margin: 0 !important;
+    padding-bottom: 6px !important;
 }
 
-.compact-layout .constant-group h2 {
-    font-size: 18px !important;
-    margin: 0 0 8px 0 !important;
-    padding-bottom: 5px !important;
+.capture-layout .jackets {
+    justify-content: flex-start !important;
+    gap: 6px !important;
 }
 
-.compact-layout .jackets {
-    gap: 3px !important;
+.capture-layout .jackets img {
+    width: 72px !important;
+    height: 72px !important;
+    border-radius: 4px !important;
 }
 
-.compact-layout .jackets img {
-    width: 32px !important;
-    height: 32px !important;
-    border-radius: 2px !important;
+.capture-layout .jackets img.beyond-jacket {
+    box-shadow: 0 0 2px 2px red !important;
 }
 
-.compact-layout .jackets img.beyond-jacket {
-    box-shadow: 0 0 1px 1px red !important;
-}
-
-.compact-layout .jackets img.eternal-jacket {
-    box-shadow: 0 0 1px 1px mediumpurple !important;
+.capture-layout .jackets img.eternal-jacket {
+    box-shadow: 0 0 2px 2px mediumpurple !important;
 }
 
 .constant-group {

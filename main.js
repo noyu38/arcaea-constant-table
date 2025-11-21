@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     const defineClass = () => {
                         if (isBeyond) return 'beyond-jacket';
                         if (isEternal) return 'eternal-jacket';
-                    }                    
+                    }
 
                     jacketHtml += `<img src="images/${chartInfo.jacket}" alt="${chartInfo.title}" title="${chartInfo.title}" class="${defineClass()}">`;
                 });
@@ -66,7 +66,8 @@ document.addEventListener('DOMContentLoaded', () => {
         const container = document.getElementById('song-list-container');
         const originalClasses = container.className; // 元のクラス。画像生成後に適用する。
 
-        container.className = 'compact-layout';
+        container.classList.add('capture-layout');
+        window.scrollTo({ top: 0, behavior: 'auto' });
 
         setTimeout(() => {
             html2canvas(container, {
