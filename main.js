@@ -41,10 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     const defineClass = () => {
                         if (isBeyond) return 'beyond-jacket';
                         if (isEternal) return 'eternal-jacket';
-                    }
-
-                    console.log(chartInfo.jacket);
-                    
+                    }                    
 
                     jacketHtml += `<img src="images/${chartInfo.jacket}" alt="${chartInfo.title}" title="${chartInfo.title}" class="${defineClass()}">`;
                 });
