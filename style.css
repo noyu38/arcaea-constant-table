@@ -30,66 +30,6 @@ h1 {
     color: #fff;
 }
 
-/* 定数表生成ボタン */
-.generate-btn {
-    background: linear-gradient(135deg, #6c5ce7, #a78bfa);
-    border: none;
-    color: white;
-    padding: 12px 24px;
-    margin: 10px 0;
-    border-radius: 8px;
-    cursor: pointer;
-    font-size: 16px;
-    font-weight: bold;
-    transition: all 0.3s ease;
-}
-
-/* 画像生成用レイアウト */
-.capture-layout {
-    background: #0f0f1a !important;
-    color: #e0e0e0 !important;
-    width: 900px !important;
-    max-width: 900px !important;
-    padding: 24px !important;
-    margin: 0 auto !important;
-    border-radius: 12px !important;
-    display: grid !important;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    gap: 18px !important;
-}
-
-.capture-layout .constant-group {
-    margin: 0 !important;
-    height: 100% !important;
-    display: flex !important;
-    flex-direction: column;
-    gap: 8px;
-}
-
-.capture-layout .constant-group h2 {
-    font-size: 22px !important;
-    margin: 0 !important;
-    padding-bottom: 6px !important;
-}
-
-.capture-layout .jackets {
-    justify-content: flex-start !important;
-    gap: 6px !important;
-}
-
-.capture-layout .jackets img {
-    width: 72px !important;
-    height: 72px !important;
-    border-radius: 4px !important;
-}
-
-.capture-layout .jackets img.beyond-jacket {
-    box-shadow: 0 0 2px 2px red !important;
-}
-
-.capture-layout .jackets img.eternal-jacket {
-    box-shadow: 0 0 2px 2px mediumpurple !important;
-}
 
 .constant-group {
     margin-bottom: 40px;
