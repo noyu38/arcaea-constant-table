@@ -2,11 +2,11 @@
   {
     "title_ja": "#1f1e33",
     "title_en": "#1f1e33",
-    "jacket": "1f1e33.jpg",
+    "jacket": "#1f1e33.jpg",
     "charts": {
       "Future": {
         "level": "11",
-        "constant": 11.1
+        "constant": 11.0
       }
     }
   },
@@ -2050,6 +2050,98 @@
       "Future": {
         "level": "10+",
         "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "Eternity Break",
+    "title_en": "Eternity Break",
+    "jacket": "Eternity Break.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.4
+      }
+    }
+  },
+  {
+    "title_ja": "Angel's Boundary",
+    "title_en": "Angel's Boundary",
+    "jacket": "Angel's Boundary.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.2
+      }
+    }
+  },
+  {
+    "title_ja": "Xterfusion",
+    "title_en": "Xterfusion",
+    "jacket": "Xterfusion.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10+",
+        "constant": 10.7
+      }
+    }
+  },
+  {
+    "title_ja": "Xxium and Purple haze",
+    "title_en": "Xxium and Purple haze",
+    "jacket": "Xxium and Purple haze.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.5
+      }
+    }
+  },
+  {
+    "title_ja": "ROST PAGE GENE",
+    "title_en": "ROST PAGE GENE",
+    "jacket": "ROST PAGE GENE.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.3
+      }
+    }
+  },
+  {
+    "title_ja": "No Way Back",
+    "title_en": "No Way Back",
+    "jacket": "No Way Back.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10",
+        "constant": 10.4
+      }
+    }
+  },
+  {
+    "title_ja": "ANDORXOR",
+    "title_en": "ANDORXOR",
+    "jacket": "ANDORXOR.jpg",
+    "charts": {
+      "Eternal": {
+        "level": "10+",
+        "constant": 10.8
+      }
+    }
+  },
+  {
+    "title_ja": "Undying Macula",
+    "title_en": "Undying Macula",
+    "jacket": "Undying Macula.jpg",
+    "charts": {
+      "Future": {
+        "level": "10",
+        "constant": 10.1
+      },
+      "Eternal": {
+        "level": "11",
+        "constant": 11.0
       }
     }
   }
